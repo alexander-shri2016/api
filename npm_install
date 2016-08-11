@@ -1,0 +1,2 @@
+npm install restify
+git clone https://github.com/alexander-shri2016/api /var/www/html/shri
